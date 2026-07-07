@@ -16,7 +16,7 @@
 
 I'm **Pavan Kumar Medevelli**, a **Software Engineer** with **5+ years** of experience designing and building scalable backend systems, cloud-native applications, and AI/ML powered products. I enjoy turning complex problems into clean, efficient, production-ready solutions.
 
-Beyond writing code, I create content to share what I learn — you'll find me publishing videos on **YouTube**, writing technical articles on **Medium**, and sharing tech content on **Instagram**.
+Beyond writing code, I enjoy sharing what I learn with the developer community.
 
 - 🔭 Currently building distributed systems and LLM-powered applications
 - 🌱 Always leveling up in cloud architecture and MLOps
@@ -82,9 +82,6 @@ Beyond writing code, I create content to share what I learn — you'll find me p
 
 ## 🌐 Connect With Me
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pavan-445)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pavan-445)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pavan-445)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankumarsde6/)
 
 ---
