@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Pavan Kumar Medevelli**, a **Software Engineer** with **5+ years** of experience designing and building scalable backend systems, cloud-native applications, and AI/ML powered products. I enjoy turning complex problems into clean, efficient, production-ready solutions.
+I'm **Pavan Kumar Medevelli**, a **Software Engineer** with **5+ years** of experience designing and building scalable frontend & backend systems, cloud-native applications, and AI/ML powered products. I enjoy turning complex problems into clean, efficient, production-ready solutions.
 
 Beyond writing code, I enjoy sharing what I learn with the developer community.
 
