@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi%20There!%20I'm%20Pavan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+5%2B+Years+Experience;Building+scalable+backend%2C+frontend+%26+AI+systems;Cloud+%7C+AI%2FML+%7C+Full+Stack+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+5%2B+Years+Experience;Building+scalable+backend%2C+frontend+%26+AI+systems;Cloud+%7C+AI%2FML+%7C+Full+Stack+Engineering" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=pavan-445&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views"/>
