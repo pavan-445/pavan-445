@@ -98,13 +98,6 @@ Beyond writing code, I enjoy sharing what I learn with the developer community.
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavan-445&theme=darkhub&no-frame=true&row=2&column=4"/>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
